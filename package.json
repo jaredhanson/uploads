@@ -1,6 +1,6 @@
 {
   "name": "uploads",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Stream-based file upload middleware for Node.js.",
   "keywords": ["connect", "express", "upload", "transfer", "file"],
   "repository": {
